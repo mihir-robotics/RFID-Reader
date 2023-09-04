@@ -138,9 +138,7 @@ void main(){
 		}
 
 		delayMS(50);
-
 	}
-
 }
 
 //Delay routine function which takes milliseconds as input.
